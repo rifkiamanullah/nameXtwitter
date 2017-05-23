@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>apptwitter</label>
+	</settings>
+	<users>
+		<user>
+			<path>apptwitter.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>apptwitter.jcp</path>
+		</project>
+	</projects>
+</workspace>
